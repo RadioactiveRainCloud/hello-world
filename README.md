@@ -9,4 +9,4 @@ comment on any of my code where you see areas I could improve.
 
 Thanks,
 
-<Alex>
+Alex
